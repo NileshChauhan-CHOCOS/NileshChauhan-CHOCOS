@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NileshChauhan
-- 👀 I’m interested in Programming, Geopolitics, Technology, Mathematics, Physics, Chess
+- 👀 I’m interested in Programming, Geopolitics, Technology, Mathematics, Physics, Chess, Cricket
 - 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
